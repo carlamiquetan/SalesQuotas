@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <record model="ir.actions.report" id="action_sales_quotas">
+        <field name="name">Sales Quotas</field>
+        <field name="model">sales.quotas</field>
+        <field name="report_type">qweb-pdf</field>
+        <field name="report_name">sales_quotas.report_sales_quota</field>
+        <field name="report_file">sales_quotas.report_sales_quota</field>
+        <field name="binding_type">report</field>
+        <field name="binding_model_id" ref="model_sales_quotas"/>
+    </record>
+</odoo>

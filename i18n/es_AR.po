@@ -1,0 +1,103 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sales_quotas
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-10 01:34+0000\n"
+"PO-Revision-Date: 2023-05-10 01:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__display_name
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__end_date
+msgid "End Date"
+msgstr "Fecha final"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__id
+msgid "ID"
+msgstr "ID"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: sales_quotas
+#: model:ir.model,name:sales_quotas.model_product_product
+#: model:ir.model.fields,field_description:sales_quotas.field_product_product__sales_quotas_id
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__product_ids
+msgid "Product"
+msgstr "Producto"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__quantity_available
+msgid "Quantity Available"
+msgstr "Cantidad disponible"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__quantity_sold
+msgid "Quantity Sold"
+msgstr "Cantidad vendida"
+
+#. module: sales_quotas
+#: model:ir.model,name:sales_quotas.model_sale_order
+msgid "Sales Order"
+msgstr "Pedido de venta"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__sales_quota
+msgid "Sales Quota"
+msgstr "Cupo de venta"
+
+#. module: sales_quotas
+#: model:ir.actions.act_window,name:sales_quotas.action_window
+#: model:ir.model,name:sales_quotas.model_sales_quotas
+#: model:ir.ui.menu,name:sales_quotas.menu_root
+#: model:ir.ui.menu,name:sales_quotas.sales_quotas
+msgid "Sales Quotas"
+msgstr "Cupos de venta"
+
+#. module: sales_quotas
+#: model:ir.model,name:sales_quotas.model_crm_team
+#: model:ir.model.fields,field_description:sales_quotas.field_crm_team__crm_team_id
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__sales_team_ids
+msgid "Sales Team"
+msgstr "Equipo de venta"
+
+#. module: sales_quotas
+#: model:ir.model.fields,field_description:sales_quotas.field_sales_quotas__start_date
+msgid "Start Date"
+msgstr "Fecha de Inicio"

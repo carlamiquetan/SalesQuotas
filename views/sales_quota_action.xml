@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+<act_window
+                name="Report"
+                res_model="sales.quotas"
+                binding_model="sale.order"
+                binding_views="list"
+                view_mode="form"
+                target="new"
+                id="sales_quota_form"
+        />
+</odoo>
